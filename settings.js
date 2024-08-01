@@ -23,7 +23,7 @@ FOOTER: process.env.FOOTER || '‌👨‍💻 ＶＡＪＩＲＡ -  ＭＤ - Ｖ
 PREFIX: process.env.PREFIX || '.' ,
 LANG:  process.env.LANG || 'SI' ,
 ANTI_BAD: process.env.ANTI_BAD || false  ,
-AUTO_REACT:  process.env.AUTO_REACT  || false  ,    
+AUTO_REACT:  process.env.AUTO_REACT  || true  ,    
 AUTO_TYPING:  process.env.AUTO_TYPING  || false  ,
 AUTO_RECORDING:  process.env.AUTO_RECORDING  || false  ,
 AUTO_READ:  process.env.AUTO_READ  || false  ,
